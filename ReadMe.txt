@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Data Source=DESKTOP-868J7S1\SQLEXPRESS;Initial Catalog=StoreDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model
